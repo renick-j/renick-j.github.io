@@ -16,5 +16,7 @@
  <a href="">研究ログ</a>
 <hr width="400">
 
+</div>
+ 
 </body>
 </html>
