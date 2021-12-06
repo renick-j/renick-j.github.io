@@ -15,7 +15,7 @@
 <strong>にしなり子ども食堂の小学生たちとの共同研究</strong> 
 <br>
 <hr width="400">
-<a href="Grafitti.html">ラクガキ記録</a>
+<a href="Grafitti.md">ラクガキ記録</a>
  <a href="link.html">Links</a>
 <hr width="400">
 
