@@ -3,9 +3,6 @@
 <title>about</title>
 </head>
 <body background="img/back.gif">
-2021/12/04 Found 20+ new grafitti
-<br>
-
 
 <div align="center">
 
